@@ -1,6 +1,6 @@
-# Code Camp_The One with .NET
-Code Camp 2020 13-14th October 2020 - The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?
+# NDC Sydney 2020
+NDC Sydney 2020 - The Rise of Software Supply-Chain Attacks – How Secure is your .NET Application?
 
-https://codecamp.ro/dot-net-conference
+https://ndcsydney.com/agenda/the-rise-of-software-supply-chain-attacks-how-secure-is-your-net-application-0fir/0vmum2zcdls
 
-![CodeCamp 2020](CodeCamp2020.png?raw=true "Code Camp_The One with .NET")
+![NDC Sydney 2020](NDCSydney2020.png?raw=true "NDC Sydney 2020")
